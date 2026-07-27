@@ -1,5 +1,9 @@
 # Sentiment-Analysis-Demo
 
+## Example
+
+![Demo](image/demo.png)
+
 ## Project Introduction
 
 A simple sentiment analysis demo using Hugging Face Transformers.
